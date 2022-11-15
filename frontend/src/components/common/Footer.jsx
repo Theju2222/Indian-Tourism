@@ -45,7 +45,7 @@ const Footer = ({ img }) => {
       </footer>
       <hr />
       <div class="copyright">
-        <p>Techis.io©All Rights Reserved</p>
+        <p>©All Rights Reserved</p>
       </div>
       
     </>
